@@ -1,2 +1,2 @@
 # zorak audio
- portfolio html css example
+site to show in web design portfolio (html, css)

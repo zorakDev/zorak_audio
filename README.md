@@ -9,4 +9,4 @@ The website is designed to handle a large number of products and orders, and use
 
 The web application also includes an administration panel so that administrators can add, edit, and delete products, and manage orders and customers.
 
-This project is for improve my web programming skills using JS, Java and MySQL and learn to develop responsive web designs.
+This project is an exercise for improve my web programming skills using JS, Java and MySQL and learn to develop responsive web designs.

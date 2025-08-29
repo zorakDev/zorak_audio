@@ -1,9 +1,9 @@
 # zorak audio
-https://zorakdev.github.io/zorak_audio/
+https://zorak2d.github.io/zorak_audio/
 
 This project is a responsive website for selling headphones, developed with JS. The site features an attractive and user-friendly interface that allows users to purchase headphones. 
 
-Another version that cannot deploy in Github Pages use Java and queries to MySQL: https://zorakdev.github.io/CAC-ejercicios/cac-proyecto/src/main/webapp/index.html
+Another version that cannot deploy in Github Pages use Java and queries to MySQL: https://zorak2d.github.io/CAC-ejercicios/cac-proyecto/src/main/webapp/index.html
 You can watch a screen recording video of how it works in: https://drive.google.com/file/d/1-H9olwdXx7hX02WrbblviPOzAku-775Z/view 
 
 The website is designed to handle a large number of products and orders, and uses a MySQL database to store information about the products and customers' orders.
